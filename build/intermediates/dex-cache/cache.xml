@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_79e7b29e6f53f4363b2643d42a235b4bc0b01845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
