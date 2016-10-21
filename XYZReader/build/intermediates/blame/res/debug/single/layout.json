@@ -72,12 +72,12 @@
         "source": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\startup\\workspace\\Udacity\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
