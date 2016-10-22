@@ -4,33 +4,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="30066242670509"
+    timestamp="61144496210280"
     token="-4228042434143220910"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="422" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="47" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="30066242670509"
+        timestamp="60899570112602"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="61144496210280"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\startup\workspace\Udacity\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
